@@ -1,0 +1,165 @@
+question,answer1,answer2,answer3
+________ feels angry.,Stephanie,Melanie,Roger
+________ feels annoyed.,Stephanie,Melanie,Courtney
+________ feels anxious.,Melanie,Stephanie,Courtney
+________ feels depressed.,Melanie,Stephanie,Courtney
+________ feels devastated.,Melanie,Stephanie,Courtney
+________ feels disappointed.,Stephanie,Melanie,Courtney
+________ feels discouraged.,Melanie,Stephanie,Courtney
+________ feels ecstatic.,Melanie,Stephanie,Courtney
+________ feels enraged.,Stephanie,Melanie,Josh
+________ feels excited.,Stephanie,Amanda,Melanie
+________ feels fearful.,Melanie,Stephanie,Josh
+________ feels furious.,Stephanie,Courtney,Melanie
+________ feels glad.,Andrew,Josh,Latoya
+________ feels happy.,Josh,Stephanie,Melanie
+________ feels irritated.,Stephanie,Melanie,Courtney
+________ feels miserable.,Melanie,Stephanie,Amanda
+________ feels relieved.,Melanie,Stephanie,Amanda
+________ feels sad.,Melanie,Stephanie,Latoya
+________ feels scared.,Stephanie,Melanie,Courtney
+________ feels terrified.,Stephanie,Melanie,Courtney
+________ found herself in a depressing situation.,Stephanie,Melanie,Courtney
+________ found herself in a displeasing situation.,Stephanie,Melanie,Courtney
+________ found herself in a dreadful situation.,Stephanie,Melanie,Courtney
+________ found herself in a funny situation.,Stephanie,Melanie,Courtney
+________ found herself in a gloomy situation.,Stephanie,Melanie,Courtney
+________ found herself in a great situation.,Stephanie,Melanie,Courtney
+________ found herself in a grim situation.,Stephanie,Melanie,Courtney
+________ found herself in a heartbreaking situation.,Stephanie,Melanie,Courtney
+________ found herself in a hilarious situation.,Melanie,Stephanie,Courtney
+________ found herself in a horrible situation.,Stephanie,Melanie,Courtney
+________ found herself in a serious situation.,Stephanie,Melanie,Courtney
+________ found herself in a shocking situation.,Stephanie,Melanie,Courtney
+________ found herself in a terrifying situation.,Stephanie,Melanie,Courtney
+________ found herself in a threatening situation.,Stephanie,Melanie,Courtney
+________ found herself in a vexing situation.,Melanie,Stephanie,Courtney
+________ found herself in a wonderful situation.,Stephanie,Melanie,Courtney
+________ found herself in an amazing situation.,Stephanie,Melanie,Courtney
+________ found herself in an annoying situation.,Stephanie,Melanie,Courtney
+________ found herself in an irritating situation.,Stephanie,Melanie,Courtney
+________ found herself in an outrageous situation.,Stephanie,Courtney,Melanie
+________ found himself in a depressing situation.,Roger,he,Jerome
+________ found himself in a displeasing situation.,he,Roger,Jerome
+________ found himself in a dreadful situation.,Roger,he,Jerome
+________ found himself in a funny situation.,he,Roger,Andrew
+________ found himself in a gloomy situation.,Roger,he,Jerome
+________ found himself in a great situation.,he,Roger,Andrew
+________ found himself in a grim situation.,he,Roger,Andrew
+________ found himself in a heartbreaking situation.,he,Roger,Jerome
+________ found himself in a hilarious situation.,Andrew,he,Josh
+________ found himself in a horrible situation.,Roger,he,Jerome
+________ found himself in a serious situation.,Roger,Ryan,he
+________ found himself in a shocking situation.,Roger,he,Jerome
+________ found himself in a terrifying situation.,he,Roger,Jerome
+________ found himself in a threatening situation.,Roger,he,Jerome
+________ found himself in a vexing situation.,he,Roger,Andrew
+________ found himself in a wonderful situation.,Roger,Andrew,Jerome
+________ found himself in an amazing situation.,he,Andrew,Josh
+________ found himself in an annoying situation.,he,Josh,Roger
+________ found himself in an irritating situation.,he,Andrew,Josh
+________ found himself in an outrageous situation.,he,Josh,Andrew
+________ goes to the school in our neighborhood.,he,Stephanie,Courtney
+________ has two children.,Josh,Andrew,Latoya
+________ made me feel angry.,he,Josh,Stephanie
+________ made me feel annoyed.,he,Josh,Andrew
+________ made me feel anxious.,he,Josh,Andrew
+________ made me feel depressed.,he,Josh,Andrew
+________ made me feel devastated.,he,Josh,Andrew
+________ made me feel disappointed.,he,Josh,Andrew
+________ made me feel discouraged.,he,Josh,Andrew
+________ made me feel ecstatic.,he,Josh,Andrew
+________ made me feel enraged.,he,Josh,Andrew
+________ made me feel excited.,he,Josh,Stephanie
+________ made me feel fearful.,he,Josh,Andrew
+________ made me feel furious.,he,Josh,Stephanie
+________ made me feel glad.,he,Josh,Andrew
+________ made me feel happy.,he,Josh,Andrew
+________ made me feel irritated.,he,Josh,Andrew
+________ made me feel miserable.,he,Josh,Stephanie
+________ made me feel relieved.,he,Josh,Andrew
+________ made me feel sad.,he,Josh,Andrew
+________ made me feel scared.,he,Josh,Stephanie
+________ made me feel terrified.,he,Josh,Andrew
+________ told us all about the recent amazing events.,he,Josh,Stephanie
+________ told us all about the recent annoying events.,he,Stephanie,Courtney
+________ told us all about the recent depressing events.,he,Stephanie,Josh
+________ told us all about the recent displeasing events.,he,Josh,Stephanie
+________ told us all about the recent dreadful events.,he,Stephanie,Josh
+________ told us all about the recent funny events.,he,Stephanie,Josh
+________ told us all about the recent gloomy events.,he,Stephanie,Josh
+________ told us all about the recent great events.,he,Josh,Stephanie
+________ told us all about the recent grim events.,he,Josh,Stephanie
+________ told us all about the recent heartbreaking events.,he,Stephanie,Josh
+________ told us all about the recent hilarious events.,he,Josh,Andrew
+________ told us all about the recent horrible events.,he,Stephanie,Courtney
+________ told us all about the recent irritating events.,he,Stephanie,Josh
+________ told us all about the recent outrageous events.,he,Stephanie,Courtney
+________ told us all about the recent serious events.,he,Stephanie,Courtney
+________ told us all about the recent shocking events.,he,Stephanie,Courtney
+________ told us all about the recent terrifying events.,he,Stephanie,Courtney
+________ told us all about the recent threatening events.,he,Stephanie,Courtney
+________ told us all about the recent vexing events.,he,Josh,Stephanie
+________ told us all about the recent wonderful events.,he,Josh,Stephanie
+i made ________ feel angry.,him,Stephanie,Josh
+i made ________ feel annoyed.,him,Josh,Andrew
+i made ________ feel anxious.,him,Josh,her
+i made ________ feel depressed.,him,Josh,Stephanie
+i made ________ feel devastated.,him,her,Josh
+i made ________ feel disappointed.,him,Josh,Stephanie
+i made ________ feel discouraged.,him,Josh,her
+i made ________ feel ecstatic.,him,Josh,her
+i made ________ feel enraged.,him,Josh,her
+i made ________ feel excited.,him,Stephanie,Josh
+i made ________ feel fearful.,him,Josh,her
+i made ________ feel furious.,him,Josh,her
+i made ________ feel glad.,him,Josh,Andrew
+i made ________ feel happy.,him,her,Josh
+i made ________ feel irritated.,him,her,Josh
+i made ________ feel miserable.,him,Josh,Stephanie
+i made ________ feel relieved.,him,her,Josh
+i made ________ feel sad.,him,her,Josh
+i made ________ feel scared.,him,Stephanie,her
+i made ________ feel terrified.,him,her,Josh
+i saw ________ in the market.,him,her,Stephanie
+i talked to ________ yesterday.,Stephanie,him,Courtney
+the conversation with ________ was amazing.,her,him,Andrew
+the conversation with ________ was annoying.,him,her,Stephanie
+the conversation with ________ was depressing.,him,her,Josh
+the conversation with ________ was displeasing.,him,her,Josh
+the conversation with ________ was dreadful.,her,him,Andrew
+the conversation with ________ was funny.,him,her,Josh
+the conversation with ________ was gloomy.,him,her,Andrew
+the conversation with ________ was great.,him,her,Andrew
+the conversation with ________ was grim.,him,her,Andrew
+the conversation with ________ was heartbreaking.,him,her,Andrew
+the conversation with ________ was hilarious.,her,him,Andrew
+the conversation with ________ was horrible.,him,Stephanie,her
+the conversation with ________ was irritating.,her,him,Andrew
+the conversation with ________ was outrageous.,him,her,Stephanie
+the conversation with ________ was serious.,him,Stephanie,her
+the conversation with ________ was shocking.,him,her,Stephanie
+the conversation with ________ was terrifying.,her,him,Stephanie
+the conversation with ________ was threatening.,him,her,Stephanie
+the conversation with ________ was vexing.,him,her,Andrew
+the conversation with ________ was wonderful.,her,him,Josh
+the situation makes ________ feel angry.,Stephanie,Courtney,Melanie
+the situation makes ________ feel annoyed.,Stephanie,Courtney,Melanie
+the situation makes ________ feel anxious.,Stephanie,Courtney,Melanie
+the situation makes ________ feel depressed.,Stephanie,Courtney,Melanie
+the situation makes ________ feel devastated.,Stephanie,Courtney,him
+the situation makes ________ feel disappointed.,Stephanie,Courtney,Melanie
+the situation makes ________ feel discouraged.,Stephanie,Courtney,Melanie
+the situation makes ________ feel ecstatic.,Stephanie,Courtney,Melanie
+the situation makes ________ feel enraged.,Stephanie,him,Courtney
+the situation makes ________ feel excited.,Stephanie,Courtney,Melanie
+the situation makes ________ feel fearful.,Stephanie,him,Courtney
+the situation makes ________ feel furious.,Stephanie,him,Courtney
+the situation makes ________ feel glad.,him,Stephanie,Courtney
+the situation makes ________ feel happy.,him,Stephanie,her
+the situation makes ________ feel irritated.,Stephanie,him,Courtney
+the situation makes ________ feel miserable.,Stephanie,Courtney,Melanie
+the situation makes ________ feel relieved.,him,Stephanie,Melanie
+the situation makes ________ feel sad.,him,Stephanie,Melanie
+the situation makes ________ feel scared.,Stephanie,Courtney,Melanie
+the situation makes ________ feel terrified.,Stephanie,Courtney,Melanie
