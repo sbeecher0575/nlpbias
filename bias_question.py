@@ -529,11 +529,6 @@ def main():
         elif 'glove' in filenames[i]:
             model = 'vector'
 
-        #################################
-        if 'glove' in filenames[i]:
-            continue
-        #################################
-
         class_obj = Bias_Classification(questions, tables, model, 'emotion', 3, filenames[i])
         class_obj.write_csv(outfile)
 
