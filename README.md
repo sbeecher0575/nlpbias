@@ -25,7 +25,3 @@ This python program creates the questions from the sentence text, trains the mod
 ## bias_results.csv
 
 This .csv file contains the count scores of all emotions-race/gender combinations for every model and question type. This file also contains the chi-square statistics and corpus length for each model (either number of vectors or number of unique tokens).
-
-## graphs.R
-
-This R file is how I created the graphs used in the paper and in the graphs folder.
