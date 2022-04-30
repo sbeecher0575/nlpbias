@@ -18,7 +18,7 @@ This folder would be the training texts I used to train the models, but they are
 
 This folder contains graphs and plots used in the paper and extra ones that did not fit, but I felt were beneficial. It also contains the R file I used to create them.
 
-## bias_question.pdf
+## paper.pdf
 
 The paper describing the project, theory, sources, and mathematical derivations.
 
