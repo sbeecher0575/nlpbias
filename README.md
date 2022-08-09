@@ -1,4 +1,4 @@
-# Bias in Pre-Trained Language Models
+# [Bias in Pre-Trained Language Models](https://github.com/sbeecher0575/nlpbias/blob/main/paper.pdf)
 
 Here is the code and results for a more extended look at this research.
 
